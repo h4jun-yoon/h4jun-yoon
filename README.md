@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 타이핑 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hajun+Yoon+%F0%9F%91%8B;Java+%26+Spring+Boot+Developer;Unity+%2F+C%23+Game+Developer;3D+Reconstruction+%26+AI+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hajun+Yoon+%F0%9F%91%8B;Computer+Vision+%26+AI+Researcher;Backend+%26+Database+Engineer;)](https://git.io/typing-svg)
 
 <!-- 방문자 수 -->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=h4jun-yoon.h4jun-yoon)
@@ -15,7 +15,7 @@
 - 🔭 **Java Spring Boot** / **Python FastAPI** 기반 백엔드 개발을 합니다
 - 🥽 **Unity(C#)** 및 **Swift** 로 XR 애플리케이션을 개발한 경험이 있으며, 공간 컴퓨팅에 깊은 관심을 갖고 있습니다
 - 🌍 현재 **3D Reconstruction** 과 **Gaussian Splatting** 을 중심으로 3D 공간 재구성 기술을 연구 중입니다
-- 🗄️ **MySQL** 기반으로 데이터베이스를 설계하고 운영합니다
+- 🗄️ **MySQL** 과 **S3 Bucket** 기반으로 데이터베이스를 설계하고 운영합니다
 - ☁️ **AWS / GCP** 를 활용한 클라우드 인프라 구축 경험이 있습니다
 - 📫 연락처: **hajun3141592@gmail.com**
 
@@ -51,38 +51,32 @@
 
 ---
 
-## 📊 GitHub Stats
- 
+## 📈 Activity Summary
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h4jun-yoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4jun-yoon&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4jun-yoon&theme=tokyonight" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4jun-yoon&theme=tokyonight&hide_border=true&date_format=Y.n.j" width="720"/>
-</div>
----
- 
-## 🏆 Trophy
- 
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=h4jun-yoon&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
- 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4jun-yoon&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h4jun-yoon&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4jun-yoon&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h4jun-yoon&theme=tokyonight&utcOffset=9" height="160"/>
 </div>
 
 ---
 
-## 🏆 Trophy
+## 💬 Dev Quote
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=h4jun-yoon&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
 ## 📌 Featured Projects
- 
+
 <table width="100%">
   <thead>
     <tr>
